@@ -1,6 +1,6 @@
 # Adonis fullstack application
 
-This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
+Boilerplate api nodejs framework "AdonisJS". This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
 1. Bodyparser
 2. Session
